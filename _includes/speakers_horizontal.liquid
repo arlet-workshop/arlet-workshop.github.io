@@ -1,0 +1,26 @@
+<div class="card-item col">
+    <div class="card hoverable">
+      <div class="row g-0">
+        {% if speaker.img %}
+          <div class="card-img col-md-6">
+            {% include figure.liquid loading="eager" path=speaker.img sizes="(min-width: 768px) 156px, 50vw" alt="speaker thumbnail" %}
+          </div>
+        {% endif %}
+        <div class="{% if speaker.img %}col-md-6{% else %}col-md-12{% endif %}">
+          <div class="card-body">
+            <h3 class="card-title text-lowercase">{{ speaker.title }}</h3>
+            <p class="card-text">{{ speaker.description }}</p>
+            <div class="row ml-1 mr-1 p-0">
+              {% if speaker.github %}
+                <div class="github-icon">
+                  <div class="icon" data-toggle="tooltip" title="Code Repository">
+                    <a href="{{ speaker.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+                  </div>
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

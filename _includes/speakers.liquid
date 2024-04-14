@@ -1,0 +1,43 @@
+<div class="grid-sizer"></div>
+<div class="grid-item">
+    <div class="card hoverable">
+      {% if speaker.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=speaker.img
+          sizes = "250px"
+          alt="speaker thumbnail"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ speaker.name }}</h2>
+        <p class="card-text">{{ speaker.affiliation }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {% if speaker.website %}
+            <div class="website-icon">
+              <div class="icon" data-toggle="tooltip" title="Website">
+                <a href="{{ speaker.website }}"><i class="fas fa-address-card"></i></a>
+              </div>
+            </div>
+          {% endif %}
+
+          {% if speaker.scholar %}
+            <div class="scholar-icon">
+              <div class="icon" data-toggle="tooltip" title="Google Scholar Account">
+                <a href="{{ speaker.scholar }}"><i class="ai ai-google-scholar"></i></a>
+              </div>
+            </div>
+          {% endif %}
+
+          {% if speaker.twitter %}
+            <div class="twitter-icon">
+              <div class="icon" data-toggle="tooltip" title="Twitter Account">
+                <a href="{{ speaker.twitter }}"><i class="fa-brands fa-twitter gh-icon"></i></a>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+</div>
