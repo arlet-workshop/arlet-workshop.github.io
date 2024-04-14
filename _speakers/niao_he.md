@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Niao He
-affiliation: Assistant Professor at ETH Zurich
+affiliation: ETH Zurich
 img: assets/img/7.jpg
 importance: 1
 category: lecturer

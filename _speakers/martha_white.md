@@ -1,9 +1,9 @@
 ---
 layout: page
 name: Martha White
-affiliation: Assistant Professor at University of Alberta
+affiliation: University of Alberta
 img: assets/img/7.jpg
-importance: 4
+importance: 6
 category: panelist
 website: https://webdocs.cs.ualberta.ca/~whitem/
 scholar: https://scholar.google.ca/citations?user=t5zdD_IAAAAJ&hl=en

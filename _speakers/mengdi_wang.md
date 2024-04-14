@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Mengdi Wang
-affiliation: Associate Professor at Princeton University
+affiliation: Princeton University
 img: assets/img/7.jpg
 importance: 4
 category: panelist

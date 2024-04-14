@@ -1,11 +1,11 @@
 ---
 layout: page
-title: speakers
+title: Speakers
 permalink: /speakers/
 description: A growing collection of your cool speakers.
 nav: true
 nav_order: 10
-# display_categories: [lecturer, panelist]
+#display_categories: [lecturer, panelist]
 horizontal: false
 ---
 

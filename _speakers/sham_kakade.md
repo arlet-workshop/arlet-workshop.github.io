@@ -1,9 +1,9 @@
 ---
 layout: page
 name: Sham Kakade
-affiliation: Professor at Harvard University
+affiliation: Harvard University
 img: assets/img/7.jpg
-importance: 4
+importance: 5
 category: panelist
 website: https://sham.seas.harvard.edu/
 scholar: https://scholar.google.com/citations?user=wb-DKCIAAAAJ&hl=en
