@@ -2,7 +2,7 @@
 layout: page
 name: Amy Zhang
 affiliation: UT Austin
-img: assets/img/7.jpg
+img: assets/img/amy_zhang_square_1010.png
 importance: 3
 category: lecturer
 website: https://amyzhang.github.io/

@@ -2,7 +2,7 @@
 layout: page
 name: Martha White
 affiliation: University of Alberta
-img: assets/img/7.jpg
+img: assets/img/martha_white_square_2200.png
 importance: 6
 category: panelist
 website: https://webdocs.cs.ualberta.ca/~whitem/

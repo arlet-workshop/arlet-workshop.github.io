@@ -2,7 +2,7 @@
 layout: page
 name: Sergey Levine
 affiliation: UC Berkeley
-img: assets/img/7.jpg
+img: assets/img/sergey_levine_square_1500.jpg
 importance: 7
 category: panelist
 website: https://people.eecs.berkeley.edu/~svlevine/

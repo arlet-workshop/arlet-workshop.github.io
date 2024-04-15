@@ -1,0 +1,30 @@
+<div class="grid-sizer"></div>
+<div class="grid-item">
+    <div class="card hoverable">
+      {% if organizer.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=organizer.img
+          sizes = "250px"
+          alt="organizer thumbnail"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ organizer.name }}</h2>
+        <div class="card-text">{{ organizer.affiliation }}
+        <div style="float:right;">
+          {% if organizer.website %}
+                <a href="{{ organizer.website }}"><i class="ti ti-home"></i></a>
+          {% endif %}
+          {% if organizer.scholar %}
+                <a href="{{ organizer.scholar }}"><i class="ai ai-google-scholar"></i></a>
+          {% endif %}
+          {% if organizer.twitter %}
+                <a href="{{ organizer.twitter }}"><i class="fa-brands fa-twitter gh-icon"></i></a>
+          {% endif %}
+        </div>
+        </div>
+      </div>
+    </div>
+</div>

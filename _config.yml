@@ -179,6 +179,9 @@ collections:
   speakers:
     output: true
     permalink: /speakers/:path/
+  organizers:
+    output: true
+    permalink: /organizers/:path/
 
 announcements:
   enabled: true

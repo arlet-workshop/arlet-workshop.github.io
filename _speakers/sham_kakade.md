@@ -2,7 +2,7 @@
 layout: page
 name: Sham Kakade
 affiliation: Harvard University
-img: assets/img/7.jpg
+img: assets/img/sham_kakade_square_1000.png
 importance: 5
 category: panelist
 website: https://sham.seas.harvard.edu/
