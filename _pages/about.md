@@ -18,10 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 display_categories: [lecturer, panelist]
-horizontal: false
+speaker_horizontal: false
+organizer_horizontal: false
 ---
 
+---
 <h2 style="text-align:center;">Bringing theorists and experimentalists together to drive future research.</h2>
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,3 +46,58 @@ RL has evolved into a dynamic and expansive field, attracting both theorists and
 - <b>Communicate existing results</b>. It is crucial to consolidate and disseminate the knowledge already accumulated. As the field evolves rapidly, theorists and experimentalists often find themselves immersed in their domain, occasionally overlooking valuable insights and challenges encountered by the other. Participants will have the opportunity to present key findings, best practices, and lessons learned, emphasizing the importance of <i>cross-disciplinary awareness</i>. This proactive sharing of knowledge will help create a collaborative atmosphere that promotes a deeper appreciation for the existing works and encourages fruitful discussions on the current state and future directions in RL.
 
 - <b>Identify new problem classes of practical interest</b>. As experimentalists engage with theorists, we aim to move beyond a set of well-identified issues (e.g., large action spaces, unobservable states, no reset) and, instead, shed light on <i>new structures and perspectives</i> that have not been widely investigated yet. Experimentalists can present algorithms that work surprisingly well but lack theoretical understanding. Equally important are the cases where algorithms fail despite expectations. This collaboration will ensure that theoretical progress addresses the most compelling issues faced in practice and that advancements in empirical research will get the attention of theorists, creating a mutually beneficial exchange of ideas.
+
+<!-- Speakers -->
+<div class="speakers">
+{% if site.enable_speaker_categories and page.display_categories %}
+  <!-- Display categorized speakers -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_speakers = site.speakers | where: "category", category %}
+  {% assign sorted_speakers = categorized_speakers | sort: "importance" %}
+  <!-- Generate cards for each speaker -->
+  {% if page.speaker_horizontal %}
+  <div class="container">
+    <div class="row row-cols-2">
+    {% for speaker in sorted_speakers %}
+      {% include speakers_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <section class="item-center">
+    {% for speaker in sorted_speakers %}
+      <div>{% include speakers.liquid %}</div>
+    {% endfor %}
+  </section>
+  {% endif %}
+  {% endfor %}
+
+{% else %}
+
+<!-- Display speakers without categories -->
+
+{% assign sorted_speakers = site.speakers | sort: "importance" %}
+
+  <!-- Generate cards for each speaker -->
+
+{% if page.speaker_horizontal %}
+
+  <div class="container">
+    <div class="row row-cols-2">
+    {% for speaker in sorted_speakers %}
+      {% include speakers_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="grid">
+    {% for speaker in sorted_speakers %}
+      {% include speakers.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
+</div>

@@ -7,19 +7,19 @@ nav: true
 nav_order: 1
 ---
 
-We invite submissions for the ICML 2024 workshop Aligning Reinforcement Learning Experimentalists and Theorists. The papers can present new work or summarize the recent work of the author(s). Papers submitted or accepted to other conferences or journals are also welcome. Submitted papers will be reviewed by the program committee. All accepted papers will have a poster presentation. Outstanding papers will also be considered for contributed talks of approximately 15 minutes each. Please note that at least one author of each accepted paper must be available for the poster and/or oral presentation. There will be no proceedings.
+We invite submissions for the ICML 2024 workshop <em>Aligning Reinforcement Learning Experimentalists and Theorists</em>. The papers can present new work or summarize the recent work of the author(s). Papers submitted or accepted to other conferences or journals are also welcome. Submitted papers will be reviewed by the program committee. All accepted papers will have a poster presentation. Outstanding papers will also be considered for contributed talks of approximately 15 minutes each. Please note that at least one author of each accepted paper must be available for the poster and/or oral presentation. There will be no proceedings.
 
 <h2>Important dates</h2>
 
 - Submission deadline: May 29th, 2024 at 23:59 GMT
 - Reviewer registration link:
 - Submission link:
-- Notification of acceptance: June 17th, 2023 (end of the day)
-- Posters and camera ready: July 21st, 2023
+- Notification of acceptance: June 17th, 2024 (end of the day)
+- Posters and camera ready: July 21st, 2024
 
 <h2>Submission instructions</h2>
 
-The page limit is 8 pages (excluding references and the appendix). Submissions may include supplementary material, but reviewers are only required to read the first 8 pages. Submissions should use the template provided by the NeurIPS 2024 LaTeX style file. The reviewing process is blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) are allowed. Authors planning to submit already accepted articles are allowed to submit the full article but are asked to make it clear that the work already went through a peer-review process.
+The page limit is 8 pages (excluding references and the appendix). Submissions may include supplementary material, but reviewers are only required to read the first 8 pages. Submissions should use the template provided by the [NeurIPS 2024 LaTeX style file](/assets/files/neurips2024_styles.zip). The reviewing process is blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) are allowed. Authors planning to submit already accepted articles are allowed to submit the full article but are asked to make it clear that the work already went through a peer-review process.
 
 <h2>Goal of the workshop</h2>
 
