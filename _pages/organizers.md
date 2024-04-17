@@ -5,7 +5,7 @@ permalink: /organizers/
 description: A growing collection of your cool organizers.
 nav: true
 nav_order: 11
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/organizers.md -->

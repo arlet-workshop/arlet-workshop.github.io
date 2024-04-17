@@ -8,15 +8,17 @@
         {% endif %}
         <div class="{% if organizer.img %}col-md-6{% else %}col-md-12{% endif %}">
           <div class="card-body">
-            <h3 class="card-title text-lowercase">{{ organizer.title }}</h3>
-            <p class="card-text">{{ organizer.description }}</p>
+            <h3 class="card-title">{{ organizer.name }}</h3>
+            <p class="card-text">{{ organizer.affiliation }}</p>
             <div class="row ml-1 mr-1 p-0">
-              {% if organizer.github %}
-                <div class="github-icon">
-                  <div class="icon" data-toggle="tooltip" title="Code Repository">
-                    <a href="{{ organizer.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
-                  </div>
-                </div>
+              {% if organizer.website %}
+                    <a href="{{ organizer.website }}"><i class="ti ti-home"></i></a>
+              {% endif %}
+              {% if organizer.scholar %}
+                    <a href="{{ organizer.scholar }}"><i class="ai ai-google-scholar"></i></a>
+              {% endif %}
+              {% if organizer.twitter %}
+                    <a href="{{ organizer.twitter }}"><i class="fa-brands fa-twitter gh-icon"></i></a>
               {% endif %}
             </div>
           </div>
