@@ -23,60 +23,52 @@ nav_order: 3
     <td>8:00</td>
     <td>Tutorial</td>
     <td>
-      <b>TBD</b>
-      <br>
-      Niao He <i>(ETH Zurich)</i>
+      <b>Niao He</b> (ETH Zurich)
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
       TBD
     </td>
-  </tr>
+  </tr> -->
 
   <tr class="header" style="cursor: pointer">
     <td>9:00</td>
     <td>Invited Talk</td>
     <td>
-      <b>TBD</b>
-      <br>
-      Dylan Foster <i>(Microsoft Research)</i>
+      <b>Dylan Foster</b> (Microsoft Research)
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
       TBD
     </td>
-  </tr>
+  </tr> -->
 
   <tr class="header" style="cursor: pointer">
     <td>9:45</td>
     <td>Invited Talk</td>
     <td>
-      <b>TBD</b>
-      <br>
-      Amy Zhang <i>(UT Austin)</i>
+      <b>Amy Zhang</b> (UT Austin)
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
       TBD
     </td>
-  </tr>
+  </tr> -->
 
   <tr class="header">
     <td>10:45</td>
     <td>Contributed Talks 1</td>
     <td>
-      <b>TBD</b>
-      <br>
-      (3 talks)<i></i>
+      <b>TBD</b> (3 talks)
     </td>
   </tr>
 
@@ -87,7 +79,7 @@ nav_order: 3
         <td><b>Poster Session, Research Track</b> </td>
   </tr>
 
-  <tr class="header" style="background-color:rgb(140, 140, 140);">
+  <tr class="header">
       <!-- <tr> -->
         <td>12:30</td>
         <td></td>
@@ -96,14 +88,14 @@ nav_order: 3
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>13:30</td>
-    <td></td>
+    <td>Panel Discussion</td>
     <td>
-      <b>Panel Discussion</b> (Moderator: Csaba Szepesvari)
+      Moderator: <b>Csaba Szepesvari</b> (University of Alberta)
       <br>
-      Sham Kakade <i>(Harvard University)</i>, 
-      Sergey Levine <i>(UC Berkeley)</i>,
-      Mengdi Wang <i>(Princeton University)</i>,
-      Martha White <i>(University of Alberta)</i>
+      <b>Sham Kakade</b> (Harvard University), 
+      <b>Sergey Levine</b> (UC Berkeley),
+      <b>Mengdi Wang</b> (Princeton University),
+      <b>Martha White</b> (University of Alberta)
     </td>
   </tr>
 
@@ -111,9 +103,7 @@ nav_order: 3
     <td>14:30</td>
     <td>Contributed Talks 2</td>
     <td>
-      <b>TBD</b>
-      <br>
-      (3 talks)<i></i>
+      <b>TBD</b> (3 talks)
     </td>
   </tr>
 
