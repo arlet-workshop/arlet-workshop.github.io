@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-In the objective of contributing to the recent series of open research initiatives within the machine learning community, the workshop will feature a poster session devoted to presenting ideas for collaborations, positions, and open challenges. The papers should be related to bridging the gap between experimental and theoretical reinforcement learning (see [Call for Papers](/cfp) for the range of topics) and should include:
+Aiming to contribute to the recent series of open research initiatives within the machine learning community, the workshop will feature a poster session devoted to presenting ideas for collaborations, positions, and open challenges. The papers should be related to bridging the gap between experimental and theoretical reinforcement learning (see [Call for Papers](/cfp) for the range of topics) and should include:
 - A clear definition of the problem/idea/position.
 - The motivation for studying the problem/idea/position and why it is important for the machine learning community.
 - The current state of the problem/idea/position.

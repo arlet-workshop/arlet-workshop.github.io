@@ -16,7 +16,7 @@ While theorists and experimentalists share a common interest in advancing the fi
   </li>
 
   <li>
-    <b>Identify new problem classes of practical interest</b>. We aim to focus on <i>new structures and perspectives</i> that have not been widely investigated yet. Experimentalists can present algorithms that work surprisingly well but lack theoretical understanding. Equally important are the cases where algorithms fail despite expectations. This collaboration will ensure that theoretical progress addresses the most compelling issues faced in practice and that advancements in empirical research will get the attention of theorists, creating a mutually beneficial exchange of ideas.
+    <b>Identify new problem classes of practical interest</b>. We aim to emphasize <i>new structures and perspectives</i> that have not been widely investigated yet. Experimentalists can present algorithms that work surprisingly well but lack theoretical understanding. Equally important are the cases where algorithms fail despite expectations. This collaboration will ensure that theoretical progress addresses the most compelling issues faced in practice and that advancements in empirical research will get the attention of theorists, creating a mutually beneficial exchange of ideas.
   </li>
 </ul>
 
@@ -25,6 +25,7 @@ We invite submissions for the ICML 2024 workshop <em>Aligning Reinforcement Lear
 The papers can present new work or summarize the recent work of the author(s). Papers submitted or accepted to other conferences or journals are also welcome. Submitted papers will be reviewed by the program committee. All accepted papers will have a poster presentation. Outstanding papers will also be considered for contributed talks of approximately 15 minutes each. Please note that at least one author of each accepted paper must be available for the poster and/or oral presentation. There will be no proceedings.
 </div>
 
+<br>
 <h2>Important dates</h2>
 
 - Submission deadline: ``May 29th, 2024, AoE``.
@@ -33,11 +34,12 @@ The papers can present new work or summarize the recent work of the author(s). P
 - Notification of acceptance: ``June 17th, 2024, AoE``.
 - Posters and camera ready: ``July 14th, 2024, AoE``.
 
-
+<br>
 <h2>Submission instructions</h2>
 
-The page limit is 8 pages (excluding references and the appendix). Submissions may include supplementary material, but reviewers are only required to read the first 8 pages. Submissions should use the template provided by the [adapted NeurIPS 2024 LaTeX style file](/assets/files/arlet2024_styles.zip). The reviewing process is blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) are allowed. Authors planning to submit already accepted articles are allowed to submit the full article but are asked to make it clear that the work already went through a peer-review process.
+The page limit is 8 pages (excluding references and the appendix). Submissions may include supplementary material, but reviewers are only required to read the first 8 pages. Submissions should use the template provided by the [adapted NeurIPS 2024 LaTeX style files](/assets/files/arlet2024_styles.zip). The reviewing process is double-blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) are allowed. Authors planning to submit already accepted articles are allowed to submit the full article but are asked to make it clear that the work already went through a peer-review process.
 
+<br>
 <h2>Topics</h2>
 
 The workshop will cover a range of sub-topics including (but not limited to):
