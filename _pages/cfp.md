@@ -31,12 +31,12 @@ The papers can present new work or summarize the recent work of the author(s). P
 - Reviewer registration link: ``TBD``.
 - Submission link: ``TBD``.
 - Notification of acceptance: ``June 17th, 2024, AoE``.
-- Posters and camera ready: ``July 21st, 2024, AoE``.
+- Posters and camera ready: ``July 14th, 2024, AoE``.
 
 
 <h2>Submission instructions</h2>
 
-The page limit is 8 pages (excluding references and the appendix). Submissions may include supplementary material, but reviewers are only required to read the first 8 pages. Submissions should use the template provided by the adapted [NeurIPS 2024 LaTeX style file](/assets/files/arlet2024_styles.zip). The reviewing process is blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) are allowed. Authors planning to submit already accepted articles are allowed to submit the full article but are asked to make it clear that the work already went through a peer-review process.
+The page limit is 8 pages (excluding references and the appendix). Submissions may include supplementary material, but reviewers are only required to read the first 8 pages. Submissions should use the template provided by the [adapted NeurIPS 2024 LaTeX style file](/assets/files/arlet2024_styles.zip). The reviewing process is blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) are allowed. Authors planning to submit already accepted articles are allowed to submit the full article but are asked to make it clear that the work already went through a peer-review process.
 
 <h2>Topics</h2>
 
