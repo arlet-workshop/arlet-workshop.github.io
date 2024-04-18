@@ -23,17 +23,13 @@ organizer_horizontal: true
 ---
 
 <div style="text-align: justify">
-Reinforcement Learning (RL) has evolved into a dynamic and expansive field, attracting both theorists and experimentalists. While they share a common interest in advancing the field, their research objectives, methodologies, and challenges sometimes diverge significantly. This workshop aims to bridge this gap and to shed light on recent developments and synergies in both communities. Specifically, we aim to promote the following long-term desiderata.
-
-<ul>
-  <li>
-    <b>Communicate existing results</b>. As the field evolves rapidly, theorists and experimentalists often find themselves immersed in their domain, occasionally overlooking valuable insights and challenges encountered by the other. Participants will have the opportunity to present key findings, best practices, and lessons learned, emphasizing the importance of <i>cross-disciplinary awareness</i>. This proactive sharing of knowledge will help create a collaborative atmosphere that promotes a deeper appreciation for the existing works and encourages fruitful discussions on the current state and future directions in RL.
-  </li>
-
-  <li>
-    <b>Identify new problem classes of practical interest</b>. We aim to focus on <i>new structures and perspectives</i> that have not been widely investigated yet. Experimentalists can present algorithms that work surprisingly well but lack theoretical understanding. Equally important are the cases where algorithms fail despite expectations. This collaboration will ensure that theoretical progress addresses the most compelling issues faced in practice and that advancements in empirical research will get the attention of theorists, creating a mutually beneficial exchange of ideas.
-  </li>
-</ul>
+Recent progress in reinforcement learning (RL) has powered breakthroughs in various real-world problems (<i>e.g.</i>, <a href="https://www.nature.com/articles/nature16961">1</a>, <a href="https://ieeexplore.ieee.org/document/8103164">2</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3543846">3</a>, <a href="https://www.nature.com/articles/s41586-022-05172-4">4</a>, <a href="https://www.nature.com/articles/s41586-023-06004-9">5</a>, <a href="https://arxiv.org/abs/2102.11492">6</a>), gathering considerable attention and investment. However, it has also exposed a significant gap between theoretical and experimental developments. <br>
+<p></p>
+RL theory has grown significantly in the past two decades. Research has characterized the inherent difficulty of various settings, and has designed a wide variety of algorithms (<i>e.g.</i>, <a href="https://arxiv.org/abs/1807.03765">7</a>, <a href="https://arxiv.org/abs/2005.06392">8</a>, <a href="https://ieeexplore.ieee.org/document/9435807">9</a>) to reach optimal performances. Furthermore, a huge leap has been made in understanding how to handle large state spaces using function approximation techniques, identifying key structural properties that enable efficient learning (<i>e.g.</i>, <a href="https://arxiv.org/abs/1907.05388">10</a>, <a href="https://arxiv.org/abs/1910.03016">11</a>, <a href="https://arxiv.org/abs/2310.07811">12</a>). <br>
+<p></p>
+However, despite theoretical guarantees, applying RL algorithms to complex problems faces challenges. Theoretical algorithms often focus on simplified settings, making them hard to apply to real-world complexities. Furthermore, optimizing for worst-case scenarios, which include unlikely situations, can lead to algorithms that perform poorly on practical tasks. Yet, while specialized algorithms offer empirical success, they might not translate to other problems due to their specific design, and the reliance on heuristics and engineering fixes in practice (<a href="https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/">13</a>) further widens the gap between theory and practice. <br>
+<p></p>
+With this workshop, we aim to bring theorists and experimentalists together to drive future research in RL.
 </div>
 
 ---
