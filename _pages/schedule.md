@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /schedule/
-title: Schedule
-description: The session will cover a tutorial, invited talks, contributed talks and posters. The schedule in Central European Summer Time (GMT+2) can be found below. <b>(Click the talks to see their abstracts)</b>
+title: Tentative Schedule
+description: The session will cover a tutorial, invited talks, contributed talks and posters. The tentative schedule in Central European Summer Time (GMT+2) can be found below. <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 3
 ---
@@ -20,7 +20,7 @@ nav_order: 3
       </tr>
       <tr>
   <tr class="header" style="cursor: pointer">
-    <td>8:00</td>
+    <td>8:45</td>
     <td>Tutorial</td>
     <td>
       <b>Niao He</b> (ETH Zurich)
@@ -35,7 +35,7 @@ nav_order: 3
   </tr> -->
 
   <tr class="header" style="cursor: pointer">
-    <td>9:00</td>
+    <td>9:45</td>
     <td>Invited Talk</td>
     <td>
       <b>Dylan Foster</b> (Microsoft Research)
@@ -49,8 +49,15 @@ nav_order: 3
     </td>
   </tr> -->
 
+  <tr class="header">
+      <!-- <tr> -->
+        <td>10:30</td>
+        <td></td>
+        <td>Coffee Break</td>
+  </tr>
+
   <tr class="header" style="cursor: pointer">
-    <td>9:45</td>
+    <td>10:45</td>
     <td>Invited Talk</td>
     <td>
       <b>Amy Zhang</b> (UT Austin)
@@ -65,8 +72,8 @@ nav_order: 3
   </tr> -->
 
   <tr class="header">
-    <td>10:45</td>
-    <td>Contributed Talks 1</td>
+    <td>11:30</td>
+    <td>Contributed Talks</td>
     <td>
       <b>TBD</b> (3 talks)
     </td>
@@ -74,20 +81,20 @@ nav_order: 3
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>11:30</td>
+        <td>12:15</td>
         <td></td>
         <td><b>Poster Session, Research Track</b> </td>
   </tr>
 
   <tr class="header">
       <!-- <tr> -->
-        <td>12:30</td>
+        <td>13:15</td>
         <td></td>
         <td>Lunch Break</td>
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>13:30</td>
+    <td>14:30</td>
     <td>Panel Discussion</td>
     <td>
       Moderator: <b>Csaba Szepesvari</b> (University of Alberta)
@@ -100,8 +107,8 @@ nav_order: 3
   </tr>
 
   <tr class="header">
-    <td>14:30</td>
-    <td>Contributed Talks 2</td>
+    <td>15:30</td>
+    <td>Contributed Talks</td>
     <td>
       <b>TBD</b> (3 talks)
     </td>
@@ -109,7 +116,7 @@ nav_order: 3
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>15:30</td>
+        <td>16:30</td>
         <td></td>
         <td><b>Poster Session, Ideas Track</b></td>
   </tr>
