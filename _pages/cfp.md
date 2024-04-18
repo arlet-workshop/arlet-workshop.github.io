@@ -11,11 +11,12 @@ We invite submissions for the ICML 2024 workshop <em>Aligning Reinforcement Lear
 
 <h2>Important dates</h2>
 
-- Submission deadline: May 29th, 2024 at 23:59 GMT
-- Reviewer registration link:
-- Submission link:
-- Notification of acceptance: June 17th, 2024 (end of the day)
-- Posters and camera ready: July 21st, 2024
+- Submission deadline: ``May 29th, 2024, AoE``.
+- Reviewer registration link: ``TBD``.
+- Submission link: ``TBD``.
+- Notification of acceptance: ``June 17th, 2024, AoE``.
+- Posters and camera ready: ``July 21st, 2024, AoE``.
+
 
 <h2>Submission instructions</h2>
 

@@ -3,9 +3,9 @@ layout: page
 title: Speakers
 permalink: /speakers/
 description: A growing collection of your cool speakers.
-nav: true
+nav: false
 nav_order: 10
-#display_categories: [lecturer, panelist]
+display_categories: [lecturer, panelist]
 horizontal: false
 ---
 
@@ -29,9 +29,9 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="grid">
+  <div class="d-flex justify-content-between">
     {% for speaker in sorted_speakers %}
-      {% include speakers.liquid %}
+      <div class="p-2">{% include speakers.liquid %}</div>
     {% endfor %}
   </div>
   {% endif %}

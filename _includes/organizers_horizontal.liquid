@@ -2,13 +2,13 @@
     <div class="card hoverable">
       <div class="row g-0">
         {% if organizer.img %}
-          <div class="card-img col-md-6">
+          <div class="card-img col-md-5">
             {% include figure.liquid loading="eager" path=organizer.img sizes="(min-width: 768px) 156px, 50vw" alt="organizer thumbnail" %}
           </div>
         {% endif %}
-        <div class="{% if organizer.img %}col-md-6{% else %}col-md-12{% endif %}">
+        <div class="{% if organizer.img %}col-md-7{% else %}col-md-12{% endif %}">
           <div class="card-body">
-            <h3 class="card-title">{{ organizer.name }}</h3>
+            <h4 class="card-title">{{ organizer.name }}</h4>
             <p class="card-text">{{ organizer.affiliation }}</p>
             <div class="row ml-1 mr-1 p-0">
               {% if organizer.website %}

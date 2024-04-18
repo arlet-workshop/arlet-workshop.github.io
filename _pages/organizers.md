@@ -3,7 +3,7 @@ layout: page
 title: Organizers
 permalink: /organizers/
 description: A growing collection of your cool organizers.
-nav: true
+nav: false
 nav_order: 11
 horizontal: true
 ---
