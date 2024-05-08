@@ -29,8 +29,7 @@ The papers can present new work or summarize the recent work of the author(s). P
 <h2>Important dates</h2>
 
 - Submission deadline: ``May 29th, 2024, AoE``.
-- Reviewer registration link: ``TBD``.
-- Submission link: ``TBD``.
+- Submission link: [https://openreview.net/group?id=ICML.cc/2024/Workshop/ARLET](https://openreview.net/group?id=ICML.cc/2024/Workshop/ARLET).
 - Notification of acceptance: ``June 17th, 2024, AoE``.
 - Posters and camera ready: ``July 14th, 2024, AoE``.
 
