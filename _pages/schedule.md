@@ -60,7 +60,7 @@ nav_order: 3
     <td>10:45</td>
     <td>Invited Talk</td>
     <td>
-      <b>Amy Zhang</b> (UT Austin)
+      <b>Jakob Foerster</b> (University of Oxford)
     </td>
   </tr>
   <!-- <tr>
