@@ -16,7 +16,7 @@ The submitted papers can either be problems/ideas/positions novel to the communi
 
 <h2>Important dates</h2>
 
-- Submission deadline: ``May 29th, 2024, AoE``.
+- Submission deadline: ~~May 29th, 2024, AoE~~ ``May 31th, 2024, AoE``.
 - Submission email: ``arlet.icml2024@gmail.com``.
 - Notification of acceptance: ``June 17th, 2024, AoE``.
 - Posters and camera ready: ``July 14th, 2024, AoE``.
