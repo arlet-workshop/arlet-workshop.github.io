@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Tentative Schedule
-description: The session will cover a tutorial, invited talks, contributed talks and posters. The tentative schedule in Central European Summer Time (GMT+2) can be found below. <b>(Click the talks to see their abstracts)</b>
+description: The session will cover a tutorial, invited talks, contributed talks and posters. The tentative schedule in Central European Summer Time (GMT+2) can be found below.
 nav: true
 nav_order: 3
 ---
