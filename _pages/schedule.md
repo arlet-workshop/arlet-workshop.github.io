@@ -52,6 +52,7 @@ nav_order: 3
     <td>Invited Talk</td>
     <td>
             <i>Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning</i>
+            <br>
             <b>Dylan Foster</b> (Microsoft Research)
     </td>
   </tr>
@@ -77,6 +78,7 @@ In this talk, we revisit the apparent gap between offline and online IL from a l
     <td>Invited Talk</td>
     <td>
             <i>Reinforcement Learning at the Hyperscale</i>
+            <br>
             <b>Jakob Foerster</b> (University of Oxford)
     </td>
   </tr>
