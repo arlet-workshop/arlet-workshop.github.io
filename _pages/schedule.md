@@ -20,7 +20,20 @@ nav_order: 3
       </tr>
       <tr>
   <tr class="header" style="cursor: pointer">
-    <td>8:45</td>
+    <td>9:00 a.m.</td>
+    <td></td>
+    <td>Opening Remarks</td>
+  </tr>
+  <!-- <tr>
+    <td></td>
+    <td></td>
+    <td>
+      TBD
+    </td>
+  </tr> -->
+              
+  <tr class="header" style="cursor: pointer">
+    <td>9:05 a.m.</td>
     <td>Tutorial</td>
     <td>
       <b>Niao He</b> (ETH Zurich)
@@ -35,71 +48,79 @@ nav_order: 3
   </tr> -->
 
   <tr class="header" style="cursor: pointer">
-    <td>9:45</td>
+    <td>10:00 a.m.</td>
     <td>Invited Talk</td>
     <td>
-      <b>Dylan Foster</b> (Microsoft Research)
+            <i>Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning</i>
+            <b>Dylan Foster</b> (Microsoft Research)
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td></td>
     <td></td>
     <td>
-      TBD
+      Imitation learning (IL) aims to mimic the behavior of an expert in a sequential decision making task by learning from demonstrations, and has been widely applied to robotics, autonomous driving, and autoregressive language generation. The simplest approach to IL, behavior cloning (BC), is thought to incur sample complexity with unfavorable quadratic dependence on the problem horizon, motivating a variety of different online algorithms that attain improved linear horizon dependence under stronger assumptions on the data and the learner’s access to the expert.
+
+In this talk, we revisit the apparent gap between offline and online IL from a learning-theoretic perspective, with a focus on general policy classes up to and including deep neural networks. Through a new analysis of behavior cloning with the logarithmic loss, we will show that it is possible to achieve horizon-independent sample complexity in offline IL whenever (i) the range of the cumulative payoffs is controlled, and (ii) an appropriate notion of supervised learning complexity for the policy class is controlled. When specialized to stationary policies, this implies that the gap between offline and online IL is not fundamental. We will then discuss implications of this result and investigate the extent to which it bears out empirically.
     </td>
-  </tr> -->
+  </tr>
 
   <tr class="header">
       <!-- <tr> -->
-        <td>10:30</td>
+        <td>10:45 a.m.</td>
         <td></td>
-        <td>Coffee Break</td>
+        <td>Break</td>
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>10:45</td>
+    <td>11:00 a.m.</td>
     <td>Invited Talk</td>
     <td>
-      <b>Jakob Foerster</b> (University of Oxford)
+            <i>Reinforcement Learning at the Hyperscale</i>
+            <b>Jakob Foerster</b> (University of Oxford)
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td></td>
     <td></td>
     <td>
-      TBD
+      Deep reinforcement learning is currently undergoing a revolution of scale, fuelled by jointly running the environment, data collection, and training loop on the GPU, which has resulted in orders of magnitude of speed-up for many tasks.
+
+In this talk I start by presenting examples of our recent work which have been enabled by this revolution, spanning multi-agent RL, meta-learning, and environment discovery. I will end the talk by outlining failure modes of relying on GPU accelerated environments and possible paradigms for the community to collectively address them, ranging from promising research directions to novel evaluation protocols.
     </td>
-  </tr> -->
+  </tr>
 
   <tr class="header">
-    <td>11:30</td>
+    <td>11:45 a.m.</td>
     <td>Contributed Talks</td>
     <td>
-      <b>TBD</b> (3 talks)
+      <b>TBD</b> (4 talks)
     </td>
-  </tr>
-
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
-        <td>12:15</td>
-        <td></td>
-        <td><b>Poster Session, Research Track</b> </td>
   </tr>
 
   <tr class="header">
       <!-- <tr> -->
-        <td>13:15</td>
+        <td>12:25 p.m.</td>
         <td></td>
         <td>Lunch Break</td>
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-    <td>14:30</td>
+      <!-- <tr> -->
+        <td>1:25 p.m.</td>
+        <td></td>
+        <td><b>Poster Session 1</b> </td>
+  </tr>
+
+
+
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+    <td>2:25 p.m.</td>
     <td>Panel Discussion</td>
     <td>
       Moderator: <b>Csaba Szepesvari</b> (University of Alberta)
       <br>
-      <b>Sham Kakade</b> (Harvard University), 
+      <b>Marcello Restelli</b> (Harvard University), 
       <b>Sergey Levine</b> (UC Berkeley),
       <b>Mengdi Wang</b> (Princeton University),
       <b>Martha White</b> (University of Alberta)
@@ -107,18 +128,25 @@ nav_order: 3
   </tr>
 
   <tr class="header">
-    <td>15:30</td>
+      <!-- <tr> -->
+        <td>3:25 p.m.</td>
+        <td></td>
+        <td>Coffee Break</td>
+  </tr>
+
+  <tr class="header">
+    <td>3:40 p.m.</td>
     <td>Contributed Talks</td>
     <td>
-      <b>TBD</b> (3 talks)
+      <b>TBD</b> (2 talks)
     </td>
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>16:30</td>
+        <td>4:00 p.m.</td>
         <td></td>
-        <td><b>Poster Session, Ideas Track</b></td>
+        <td><b>Poster Session 2</b></td>
   </tr>
 
 <!-- </table> -->
