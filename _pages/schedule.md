@@ -54,17 +54,19 @@ nav_order: 3
             <i>Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning</i>
             <br>
             <b>Dylan Foster</b> (Microsoft Research)
+            <br><br>
+            Imitation learning (IL) aims to mimic the behavior of an expert in a sequential decision making task by learning from demonstrations, and has been widely applied to robotics, autonomous driving, and autoregressive language generation. The simplest approach to IL, behavior cloning (BC), is thought to incur sample complexity with unfavorable quadratic dependence on the problem horizon, motivating a variety of different online algorithms that attain improved linear horizon dependence under stronger assumptions on the data and the learner’s access to the expert.
+<br>
+            In this talk, we revisit the apparent gap between offline and online IL from a learning-theoretic perspective, with a focus on general policy classes up to and including deep neural networks. Through a new analysis of behavior cloning with the logarithmic loss, we will show that it is possible to achieve horizon-independent sample complexity in offline IL whenever (i) the range of the cumulative payoffs is controlled, and (ii) an appropriate notion of supervised learning complexity for the policy class is controlled. When specialized to stationary policies, this implies that the gap between offline and online IL is not fundamental. We will then discuss implications of this result and investigate the extent to which it bears out empirically.
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
-      Imitation learning (IL) aims to mimic the behavior of an expert in a sequential decision making task by learning from demonstrations, and has been widely applied to robotics, autonomous driving, and autoregressive language generation. The simplest approach to IL, behavior cloning (BC), is thought to incur sample complexity with unfavorable quadratic dependence on the problem horizon, motivating a variety of different online algorithms that attain improved linear horizon dependence under stronger assumptions on the data and the learner’s access to the expert.
-
-In this talk, we revisit the apparent gap between offline and online IL from a learning-theoretic perspective, with a focus on general policy classes up to and including deep neural networks. Through a new analysis of behavior cloning with the logarithmic loss, we will show that it is possible to achieve horizon-independent sample complexity in offline IL whenever (i) the range of the cumulative payoffs is controlled, and (ii) an appropriate notion of supervised learning complexity for the policy class is controlled. When specialized to stationary policies, this implies that the gap between offline and online IL is not fundamental. We will then discuss implications of this result and investigate the extent to which it bears out empirically.
+      
     </td>
-  </tr>
+  </tr> -->
 
   <tr class="header">
       <!-- <tr> -->
@@ -80,17 +82,19 @@ In this talk, we revisit the apparent gap between offline and online IL from a l
             <i>Reinforcement Learning at the Hyperscale</i>
             <br>
             <b>Jakob Foerster</b> (University of Oxford)
+            <br><br>
+            Deep reinforcement learning is currently undergoing a revolution of scale, fuelled by jointly running the environment, data collection, and training loop on the GPU, which has resulted in orders of magnitude of speed-up for many tasks.
+<br>
+            In this talk I start by presenting examples of our recent work which have been enabled by this revolution, spanning multi-agent RL, meta-learning, and environment discovery. I will end the talk by outlining failure modes of relying on GPU accelerated environments and possible paradigms for the community to collectively address them, ranging from promising research directions to novel evaluation protocols.
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
-      Deep reinforcement learning is currently undergoing a revolution of scale, fuelled by jointly running the environment, data collection, and training loop on the GPU, which has resulted in orders of magnitude of speed-up for many tasks.
-
-In this talk I start by presenting examples of our recent work which have been enabled by this revolution, spanning multi-agent RL, meta-learning, and environment discovery. I will end the talk by outlining failure modes of relying on GPU accelerated environments and possible paradigms for the community to collectively address them, ranging from promising research directions to novel evaluation protocols.
+      
     </td>
-  </tr>
+  </tr> -->
 
   <tr class="header">
     <td>11:45 a.m.</td>
