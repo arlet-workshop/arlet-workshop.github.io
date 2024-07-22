@@ -172,6 +172,17 @@ We are thrilled to have the following researchers joining us for the event.
 </div>
 
 <br>
+<h1><b>Sponsors</b></h1>h1
+
+Thanks to our sponsors for supporting the workshop.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/GR_logo_horizontal.png" title="GR logo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<br>
 <h1><b>Contact</b></h1>
 
 You can reach us by email at [``arlet.icml2024@gmail.com``](mailto:arlet.icml2024@gmail.com), or on Twitter, [``@arlet_workshop``](https://twitter.com/arlet_workshop).
