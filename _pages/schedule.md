@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /schedule/
-title: Tentative Schedule
-description: The session will cover a tutorial, invited talks, contributed talks and posters. The tentative schedule in Central European Summer Time (GMT+2) can be found below.
+title: Schedule
+description: The session will cover invited talks, contributed talks and posters. The tentative schedule in Central European Summer Time (GMT+2) can be found below.
 nav: true
 nav_order: 3
 ---
@@ -34,7 +34,7 @@ nav_order: 3
               
   <tr class="header" style="cursor: pointer">
     <td>9:05 a.m.</td>
-    <td>Tutorial</td>
+    <td>Invited Talk</td>
     <td>
       <b>Niao He</b> (ETH Zurich)
     </td>
@@ -100,7 +100,21 @@ nav_order: 3
     <td>11:45 a.m.</td>
     <td>Contributed Talks</td>
     <td>
-      <b>TBD</b> (4 talks)
+            <i>Is Value Learning Really the Main Bottleneck in Offline RL?</i>
+            <br>
+            <b>Seohong Park</b> (UC Berkeley)
+            <br><br>
+            <i>REBEL: Reinforcement Learning via Regressing Relative Rewards</i>
+            <br>
+            <b>Zhaolin Gao</b> (Cornell University)
+            <br><br>
+            <i>Partially Observable Multi-Agent Reinforcement Learning using Mean Field Control</i>
+            <br>
+            <b>Kai Cui</b> (TU Darmstadt)
+            <br><br>
+            <i>Information Theoretic Guarantees For Policy Alignment in Large Language Models</i>
+            <br>
+            <b>Youssef Mroueh</b> (IBM Research)
     </td>
   </tr>
 
@@ -144,7 +158,13 @@ nav_order: 3
     <td>3:40 p.m.</td>
     <td>Contributed Talks</td>
     <td>
-      <b>TBD</b> (2 talks)
+            <i>A Unified Confidence Sequence for Generalized Linear Models, with Applications to Bandits</i>
+            <br>
+            <b>Junghyun Lee</b> (KAIST)
+            <br><br>
+            <i>Transductive Active Learning with Application to Safe Bayesian Optimization</i>
+            <br>
+            <b>Jonas Hübotter</b> (ETH Zurich)
     </td>
   </tr>
 
