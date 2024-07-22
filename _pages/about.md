@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Workshop at the International Conference on Machine Learning, 2024. Vienna, Austria.
+subtitle: Workshop at the International Conference on Machine Learning, <a href="https://icml.cc/virtual/2024/workshop/29964">Friday, the 26 of July 2024</a>. Vienna, Austria.
 
 # profile:
 #   align: right
