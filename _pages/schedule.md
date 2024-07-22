@@ -36,7 +36,11 @@ nav_order: 3
     <td>9:05 a.m.</td>
     <td>Invited Talk</td>
     <td>
-      <b>Niao He</b> (ETH Zurich)
+            <i>The Rise of Reinforcement Learning: from One to Many</i>
+            <br>
+            <b>Niao He</b> (ETH Zurich)
+            <br><br>
+            Reinforcement learning (RL), combined with deep neural networks, is key to the boom of recent AI breakthroughs from game mastery to control automation.  However, their successes are overly reliant on brute-force computing power and engineering tricks, leaving wide gaps between practice and theory.  The lack of theoretical foundations is even more pronounced as we shift from single-agent to many-agent RL, in addressing complex dynamic systems and decision making such as resource allocation, traffic management, and social interaction.  The challenges inherent in learning many-agent systems stem not only from the increased computational and strategic complexities but also from practical limitations in coordination and exploration.    In this talk, I will shed light on promising principles that break the curses of many-agent RL, focusing on mean-field approximation theory, statistical complexity, and independent learning. This will further pave the way for scalable and principled solutions to unlock the full potential of RL for next-generation AI.
     </td>
   </tr>
   <!-- <tr>
