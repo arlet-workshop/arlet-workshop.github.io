@@ -181,3 +181,93 @@ nav_order: 3
 
 <!-- </table> -->
 <!-- </div> -->
+
+<br><br>
+<h1>Poster Session 1</h1>
+
+- Is Value Learning Really the Main Bottleneck in Offline RL?
+- REBEL: Reinforcement Learning via Regressing Relative Rewards
+- Partially Observable Multi-Agent Reinforcement Learning using Mean Field Control
+- Information Theoretic Guarantees For Policy Alignment In Large Language Models
+- An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models
+- Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent
+- When to Sense and Control? A Time-adaptive Approach for Continuous-Time RL
+- Transferable Reinforcement Learning via Generalized Occupancy Models
+- Learning to Steer Markovian Agents under Model Uncertainty
+- vMF-exp: von Mises-Fisher Exploration of Large Action Sets with Hyperspherical Embeddings
+- No Representation, No Trust: Connecting Representation, Collapse, and Trust Issues in PPO
+- Adaptive Foundation Models for Online Decisions: HyperAgent with Fast Incremental Uncertainty Estimation
+- Efficient Offline Learning of Ranking Policies via Top-$k$ Policy Decomposition
+- Oracle-Efficient Reinforcement Learning for Max Value Ensembles
+- Policy Gradient Methods with Adaptive Policy Spaces
+- Functional Acceleration for Policy Mirror Descent
+- VICtoR: Learning Hierarchical Vision-Instruction Correlation Rewards for Long-horizon Manipulation
+- Multi-Agent Imitation Learning: Value is Easy, Regret is Hard
+- Batch Learning via Log-Sum-Exponential Estimator from Logged Bandit Feedback
+- Advantage Alignment Algorithms
+- Enhancing Actor-Critic Decision-Making with Afterstate Models for Continuous Control
+- In Search for Architectures and Loss Functions in Multi-Objective Reinforcement Learning
+- Reinforcement Learning from Bagged Reward
+- Combining Reconstruction and Contrastive Methods for Multimodal Representations in RL
+- Exploiting Approximate Symmetry for Efficient Multi-Agent Reinforcement Learning
+- Safe exploration in reproducing kernel Hilbert spaces
+- PIPER: Primitive-Informed Preference-based Hierarchical Reinforcement Learning via Hindsight Relabeling
+- Towards Zero-Shot Generalization in Offline Reinforcement Learning
+- Bigger, Regularized, Optimistic: scaling for compute and sample-efficient continuous control
+- On the Theory of Risk-Aware Agents: Bridging Actor-Critic and Economics
+- BenchMARL: Benchmarking Multi-Agent Reinforcement Learning
+- Acquiring Diverse Skills using Curriculum Reinforcement Learning with Mixture of Experts
+- Adaptive Two-Level Quasi-Monte Carlo for Soft Actor-Critic
+- Markov Persuasion Processes: How to Persuade Multiple Agents From Scratch
+- Delayed Adversarial Attacks on Stochastic Multi-Armed Bandits
+- RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation
+- Locally Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Dependencies
+- Idea Track: Leveraging Reinforcement Learning to Enhance Decision-Making in Oncology Treatments
+- Idea Track: Tight Bounds for Bernoulli Rewards in Kernelized Multi-Armed Bandits
+- Idea Track: Reward Estimation in Inverse Bandit Problems
+- Idea Track: Proper Hyper-parameter Optimization in Reinforcement Learning
+
+<br><br>
+<h1>Poster Session 2</h1>
+
+- A Unified Confidence Sequence for Generalized Linear Models, with Applications to Bandits
+- Transductive Active Learning with Application to Safe Bayesian Optimization
+- Realtime Reinforcement Learning: Towards Rapid Asynchronous Deployment of Large Models
+- Contextualized Hybrid Ensemble Q-learning: Learning Fast with Control Priors
+- Improved Algorithms for Adversarial Bandits with Unbounded Losses
+- Survive on Planet Pandora: Robust Cross-Domain RL Under Distinct State-Action Representations
+- A Case for Validation Buffer in Pessimistic Actor-Critic
+- Offline RL via Feature-Occupancy Gradient Ascent
+- How Does Return Distribution in Distributional Reinforcement Learning Help Optimization?
+- Towards the Transferability of Rewards Recovered via Regularized Inverse Reinforcement Learning
+- Exploiting Exogenous Structure for Sample-Efficient Reinforcement Learning
+- Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity
+- A Theoretical Framework for Partially-Observed Reward States in RLHF
+- Reinforcement Learning in the Wild with Maximum Likelihood-based Model Transfer
+- Dual Approximation Policy Optimization
+- Wind farm control with cooperative multi-agent reinforcement learning
+- Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm
+- Provable Partially Observable Reinforcement Learning with Privileged Information
+- Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer
+- KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty
+- Batched fixed-confidence pure exploration for bandits with switching constraints
+- Offline Reinforcement Learning with Pessimistic Value Priors
+- The Importance of Online Data: Understanding Preference Fine-Tuning via Coverage
+- Generalized Linear Bandits with Limited Adaptivity
+- Coordination Failure in Cooperative Offline MARL
+- Efficient Offline Reinforcement Learning: The Critic is Critical
+- EMPO: A Clustering-Based On-Policy Algorithm for Offline Reinforcement Learing
+- Quantized Representations Prevent Dimensional Collapse in Self-predictive RL
+- A Tractable Inference Perspective of Offline RL
+- Risk-Aware Bandits for Best Crop Management
+- Decoupled Stochastic Gradient Descent for N-Player Games
+- ORSO: Accelerating Reward Design via Online Reward Selection and Policy Optimization
+- Misspecified $Q$-Learning with Sparse Linear Function Approximation: Tight Bounds on Approximation Error
+- Handling Delay in Reinforcement Learning Caused by Parallel Computations of Neurons
+- Accelerated Online Reinforcement Learning using Auxiliary Start State Distributions
+- Reweighted Bellman Targets for Continual Reinforcement Learning
+- Should You Trust DQN?
+- Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently
+- Idea Track: Improving Sample Efficiency in World Models through Semantic Exploration via Expert Demonstration
+- Idea Track: Active Representation Learning
+- Idea Track: Better Gradient Steps for Deep On-Policy Reinforcement Learning
