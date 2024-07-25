@@ -146,7 +146,7 @@ nav_order: 3
       <br>
       <b>Marcello Restelli</b> (Harvard University), 
       <b>Sergey Levine</b> (UC Berkeley),
-      <b>Mengdi Wang</b> (Princeton University),
+      <b>Akshay Krishnamurthy</b> (Microsoft Research),
       <b>Martha White</b> (University of Alberta)
     </td>
   </tr>
@@ -164,7 +164,7 @@ nav_order: 3
     <td>
             <i>A Unified Confidence Sequence for Generalized Linear Models, with Applications to Bandits</i>
             <br>
-            <b>Junghyun Lee</b> (KAIST)
+            <b>Kwang-Sung Jun</b> (University of Arizona)
             <br><br>
             <i>Transductive Active Learning with Application to Safe Bayesian Optimization</i>
             <br>
