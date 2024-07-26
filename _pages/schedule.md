@@ -144,7 +144,7 @@ nav_order: 3
     <td>
       Moderator: <b>Csaba Szepesvari</b> (University of Alberta)
       <br>
-      <b>Marcello Restelli</b> (Harvard University), 
+      <b>Marcello Restelli</b> (Politecnico di Milano), 
       <b>Sergey Levine</b> (UC Berkeley),
       <b>Akshay Krishnamurthy</b> (Microsoft Research),
       <b>Martha White</b> (University of Alberta)
