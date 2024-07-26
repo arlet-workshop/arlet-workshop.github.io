@@ -110,7 +110,7 @@ nav_order: 3
             <br><br>
             <i>REBEL: Reinforcement Learning via Regressing Relative Rewards</i>
             <br>
-            <b>Zhaolin Gao</b> (Cornell University)
+            <b>Gokul Swamy</b> (Cornell University)
             <br><br>
             <i>Partially Observable Multi-Agent Reinforcement Learning using Mean Field Control</i>
             <br>
