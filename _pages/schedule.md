@@ -22,7 +22,11 @@ nav_order: 3
   <tr class="header" style="cursor: pointer">
     <td>9:00 a.m.</td>
     <td></td>
-    <td>Opening Remarks</td>
+    <td>
+    Opening Remarks
+    <br>
+    [<a href="https://slideslive.com/39022170">video</a>]
+    </td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -34,7 +38,11 @@ nav_order: 3
               
   <tr class="header" style="cursor: pointer">
     <td>9:05 a.m.</td>
-    <td>Invited Talk</td>
+    <td>
+    Invited Talk
+    <br>
+    [<a href="assets/pdf/niao_mfgs.pdf">slides</a>] [<a href="https://slideslive.com/39022177">video</a>]
+    </td>
     <td>
             <i>The Rise of Reinforcement Learning: from One to Many</i>
             <br>
@@ -53,7 +61,11 @@ nav_order: 3
 
   <tr class="header" style="cursor: pointer">
     <td>10:00 a.m.</td>
-    <td>Invited Talk</td>
+    <td>
+    Invited Talk
+    <br>
+    [<a href="assets/pdf/dylan_bc.pdf">slides</a>] [<a href="https://slideslive.com/39022178">video</a>]
+    </td>
     <td>
             <i>Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning</i>
             <br>
@@ -81,7 +93,11 @@ nav_order: 3
 
   <tr class="header" style="cursor: pointer">
     <td>11:00 a.m.</td>
-    <td>Invited Talk</td>
+    <td>
+    Invited Talk
+    <br>
+    [<a href="assets/pdf/jakob_hyperscale.pdf">slides</a>] [<a href="https://slideslive.com/39022179">video</a>]
+    </td>
     <td>
             <i>Reinforcement Learning at the Hyperscale</i>
             <br>
@@ -102,7 +118,11 @@ nav_order: 3
 
   <tr class="header">
     <td>11:45 a.m.</td>
-    <td>Contributed Talks</td>
+    <td>
+    Contributed Talks
+    <br>
+    [<a href="https://slideslive.com/39022180">video</a>]
+    </td>
     <td>
             <i>Is Value Learning Really the Main Bottleneck in Offline RL?</i>
             <br>
@@ -140,7 +160,11 @@ nav_order: 3
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
     <td>2:25 p.m.</td>
-    <td>Panel Discussion</td>
+    <td>
+    Panel Discussion
+    <br>
+    [<a href="https://slideslive.com/39022181">video</a>]
+    </td>
     <td>
       Moderator: <b>Csaba Szepesvari</b> (University of Alberta)
       <br>
@@ -160,7 +184,11 @@ nav_order: 3
 
   <tr class="header">
     <td>3:40 p.m.</td>
-    <td>Contributed Talks</td>
+    <td>
+    Contributed Talks
+    <br>
+    [<a href="https://slideslive.com/39022182">video</a>]
+    </td>
     <td>
             <i>A Unified Confidence Sequence for Generalized Linear Models, with Applications to Bandits</i>
             <br>
