@@ -21,11 +21,13 @@ nav_order: 3
       <tr>
   <tr class="header" style="cursor: pointer">
     <td>9:00 a.m.</td>
-    <td></td>
     <td>
     Opening Remarks
     <br>
     [<a href="https://slideslive.com/39022170">video</a>]
+    </td>
+    <td>
+    Alberto Metelli (Politecnico di Milano)
     </td>
   </tr>
   <!-- <tr>
