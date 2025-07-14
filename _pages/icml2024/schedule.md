@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /schedule/
+permalink: /icml2024/schedule/
 title: Schedule
 description: The session will cover invited talks, contributed talks and posters. The tentative schedule in Central European Summer Time (GMT+2) can be found below.
 nav: true
-nav_order: 3
+nav_order: 4
+edition: icml2024
 ---
 
 <br>

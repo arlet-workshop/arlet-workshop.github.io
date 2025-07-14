@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /cfp/
+permalink: /icml2024/cfp/
 title: Call for Papers
 description:
 nav: true
-nav_order: 1
+nav_order: 2
+edition: icml2024
 ---
 
 <div style="text-align: justify">

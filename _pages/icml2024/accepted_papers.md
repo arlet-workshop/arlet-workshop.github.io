@@ -1,10 +1,11 @@
 ---
 layout: page
-permalink: /accepted_papers/
+permalink: /icml2024/accepted_papers
 title: Poster Sessions
 description:
 nav: true
-nav_order: 4
+nav_order: 5
+edition: icml2024
 ---
 
 <h1>Poster Session 1</h1>

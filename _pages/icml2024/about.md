@@ -1,17 +1,11 @@
 ---
 layout: about
-title: About
-permalink: /
+title: About ARLET ICML 2024
+permalink: /icml2024/about
+nav: true
+nav_order: 1
+edition: icml2024
 subtitle: Workshop at the International Conference on Machine Learning, <a href="https://icml.cc/virtual/2024/workshop/29964">Friday, the 26 of July 2024</a>. Vienna, Austria.
-
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
-#   more_info: >
-#     <p>555 your office number</p>
-#     <p>123 your address street</p>
-#     <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
