@@ -45,7 +45,7 @@ With this workshop, we aim to bring theorists and experimentalists together to d
     </div>
 </div>
 
-We are excited to have an <em>[idea track](cfi)</em> along with the canonical [call for papers](cfp), which we hope will foster increased collaboration within the community. The talks will also be followed by a panel dicussion on the current state of RL. See the [schedule](/schedule) for details.
+We are excited to have an <em>[idea track](/icml2024/cfi)</em> along with the canonical [call for papers](/icml2024/cfp), which we hope will foster increased collaboration within the community. The talks will also be followed by a panel dicussion on the current state of RL. See the [schedule](/icml2024/schedule) for details.
 
 <!-- Speakers -->
 <br>
@@ -149,4 +149,4 @@ Thanks to our sponsors for supporting the workshop.
 <br>
 <h1><b>Contact</b></h1>
 
-You can reach us by email at [``arlet.icml2024@gmail.com``](mailto:arlet.icml2024@gmail.com), or on Twitter, [``@arlet_workshop``](https://twitter.com/arlet_workshop).
+You can reach us by email at [``arlet.icml2024@gmail.com``](mailto:arlet.icml2024@gmail.com), or on Twitter, [``@arlet_workshop``](https://x.com/arlet_workshop).
