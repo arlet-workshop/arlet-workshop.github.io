@@ -1,10 +1,13 @@
 ---
 layout: page
 name: Felix Berkenkamp
-affiliation: Bosch Center for AI
+affiliation: Aleph Alpha Research
 img: assets/img/felix_berkenkamp_square_430.png
-importance: 8
+importance:
+  icml2024: 8
+  neurips2025: 8
 category: organizer
 website: https://berkenkamp.me/
 scholar: https://scholar.google.com/citations?user=N_tCEl8AAAAJ&hl=en
+editions: [icml2024, neurips2025]
 ---

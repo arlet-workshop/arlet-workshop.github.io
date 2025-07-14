@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 permalink: /neurips2025/schedule
 nav: true
-nav_order: 3
+nav_order: 4
 edition: neurips2025
 ---
 
