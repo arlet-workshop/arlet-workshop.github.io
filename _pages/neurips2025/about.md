@@ -16,7 +16,7 @@ This is the about page for NeurIPS 2025. Update with relevant information for th
 <p> </p>
 <div class="organizers">
 {% assign neurips_organizers = site.organizers | where_exp: "item", "item.editions contains 'neurips2025'" %}
-{% assign sorted_organizers = neurips_organizers | sort: "importance" %}
+{% assign sorted_organizers = neurips_organizers | sort: "importance.neurips2025" %}
 
 <!-- Generate cards for each organizer -->
 {% if page.organizer_horizontal %}

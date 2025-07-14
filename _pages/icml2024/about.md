@@ -60,8 +60,9 @@ We are thrilled to have the following researchers joining us for the event.
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_speakers = site.speakers | where: "category", category %}
-  {% assign sorted_speakers = categorized_speakers | sort: "importance" %}
+  {% assign icml_speakers = site.speakers | where_exp: "item", "item.editions contains 'icml2024'" %}
+  {% assign categorized_icml_speakers = icml_speakers | where: "category", category %}
+  {% assign sorted_speakers = categorized_icml_speakers | sort: "importance.icml2024" %}
   <!-- Generate cards for each speaker -->
   {% if page.speaker_horizontal %}
   <div class="container">
@@ -84,7 +85,8 @@ We are thrilled to have the following researchers joining us for the event.
 
 <!-- Display speakers without categories -->
 
-{% assign sorted_speakers = site.speakers | sort: "importance" %}
+{% assign icml_speakers = site.speakers | where_exp: "item", "item.editions contains 'icml2024'" %}
+{% assign sorted_speakers = icml_speakers | sort: "importance.icml2024" %}
 
   <!-- Generate cards for each speaker -->
 
