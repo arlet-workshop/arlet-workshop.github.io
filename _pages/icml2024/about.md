@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About ARLET ICML 2024
+title: About ARLET @ ICML 2024
 permalink: /icml2024/about
 nav: true
 nav_order: 1
