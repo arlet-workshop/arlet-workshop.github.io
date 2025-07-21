@@ -28,9 +28,9 @@ The papers can present new work or summarize the recent work of the author(s). P
 <br>
 <h2>Important dates</h2>
 
-- Submission deadline: ``TBD, 2025, AoE``.
+- Submission deadline: ``August 22, 2025, AoE``.
 - Submission link: TBD.
-- Notification of acceptance: ``TBD, 2025, AoE``.
+- Notification of acceptance: ``September 22, 2025, AoE``.
 - Posters and camera ready: ``TBD, 2025, AoE``.
 
 <br>
@@ -61,3 +61,4 @@ The workshop will cover a range of sub-topics including (but not limited to):
 - Imitation Learning and Inverse RL
 - Risk-sensitive and Robust RL
 - Real-world applications of RL
+- LLMs + RL
