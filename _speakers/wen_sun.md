@@ -2,7 +2,7 @@
 layout: page
 name: Wen Sun
 affiliation: Cornell University
-
+img: assets/img/wen_sun_square.png
 importance:
   neurips2025: 5
 category: panelist
