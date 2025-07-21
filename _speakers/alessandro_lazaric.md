@@ -2,7 +2,7 @@
 layout: page
 name: Alessandro Lazaric
 affiliation: Meta
-img: assets/img/alessandro_lazaric_square.jpeg
+img: assets/img/alessandro_lazaric_square.png
 importance:
   neurips2025: 5
 category: panelist
