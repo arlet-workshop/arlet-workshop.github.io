@@ -2,7 +2,7 @@
 layout: page
 name: Mengdi Wang
 affiliation: Priceton University
-
+img: assets/img/mengdi_wang_square_950.png
 importance:
   neurips2025: 3
 category: lecturer

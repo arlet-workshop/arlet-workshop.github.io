@@ -2,7 +2,7 @@
 layout: page
 name: Andrew Wagenmaker
 affiliation: UC Berkeley
-
+img: assets/img/andrew_wagenmaker_square.png
 importance:
   neurips2025: 1
 category: lecturer

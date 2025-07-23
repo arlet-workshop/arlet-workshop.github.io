@@ -2,7 +2,7 @@
 layout: page
 name: Nan Jiang
 affiliation: UIUC
-
+img: assets/img/nan_jiang_square.png
 importance:
   neurips2025: 2
 category: lecturer

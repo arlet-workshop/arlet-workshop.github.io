@@ -16,9 +16,9 @@ The submitted papers can either be problems/ideas/positions novel to the communi
 
 <h2>Important dates</h2>
 
-- Submission deadline: ``TBD, 2025, AoE``.
+- Submission deadline: ``August 22, 2025, AoE``.
 - Submission link: TBD.
-- Notification of acceptance: ``TBD, 2025, AoE``.
+- Notification of acceptance: ``September 22, 2025, AoE``.
 - Posters and camera ready: ``TBD, 2025, AoE``.
 
 <h2>Submission instructions</h2>
