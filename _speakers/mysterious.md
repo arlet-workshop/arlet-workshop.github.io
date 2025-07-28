@@ -1,7 +1,6 @@
 ---
 layout: page
-name: Mysterious Speaker
-affiliation: Mysterious Affilation
+name: Surprise Speaker
 img: assets/img/mysterious_squared.png
 importance:
   neurips: 6
