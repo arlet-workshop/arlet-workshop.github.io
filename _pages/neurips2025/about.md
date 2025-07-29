@@ -133,4 +133,4 @@ We are thrilled to have the following researchers joining us for the event.
 <br>
 <h1><b>Contact</b></h1>
 
-You can reach us by email at [``arlet.neurips2025@gmail.com``](mailto:arlet.neurips2025@gmail.com), or on X, [``@arlet_workshop``](https://x.com/arlet_workshop).
+You can reach us by email at [``arlet.neurips2025@gmail.com``](mailto:arlet.neurips2025@gmail.com), or on X, [``@arlet_workshop``](https://x.com/arlet_workshop), or on Bluesky, [``@arletworkshop.bsky.social``](https://bsky.app/profile/arletworkshop.bsky.social).
