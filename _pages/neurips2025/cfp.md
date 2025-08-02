@@ -29,14 +29,14 @@ The papers can present new work or summarize the recent work of the author(s). P
 <h2>Important dates</h2>
 
 - Submission deadline: ``August 22, 2025, AoE``.
-- Submission link: TBD.
+- Submission link: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/ARLET#tab-your-consoles).
 - Notification of acceptance: ``September 22, 2025, AoE``.
 - Posters and camera ready: ``TBD, 2025, AoE``.
 
 <br>
 <h2>Submission instructions</h2>
 
-The page limit is 9 pages (excluding references and the appendix). Submissions may include supplementary material, but reviewers are only required to read the first 9 pages. Submissions should use the template provided by the [adapted NeurIPS 2025 LaTeX style files](/assets/files/arlet_2025_style_files.zip). The reviewing process is double-blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) and already published papers are allowed.
+The page limit is 9 pages (excluding references and the appendix). Submissions may include appendices immediately after references, but reviewers are only required to read the first 9 pages. Submissions should use the template provided by the [adapted NeurIPS 2025 LaTeX style files](/assets/files/arlet_2025_style_files.zip). The reviewing process is double-blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) and already published papers are allowed.
 
 <br>
 <h2>Topics</h2>
