@@ -36,7 +36,7 @@ The papers can present new work or summarize the recent work of the author(s). P
 <br>
 <h2>Submission instructions</h2>
 
-The page limit is 9 pages (excluding references and the appendix). Submissions may include appendices immediately after references, but reviewers are only required to read the first 9 pages. Submissions should use the template provided by the [adapted NeurIPS 2025 LaTeX style files](/assets/files/arlet_2025_style_file.zip). The reviewing process is double-blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) and already published papers are allowed.
+The page limit is 9 pages (excluding references and the appendix). Submissions may include appendices immediately after references, but reviewers are only required to read the first 9 pages. Submissions should use the template provided by the [adapted NeurIPS 2025 LaTeX style files](/assets/files/arlet2025_style.zip). The reviewing process is double-blind. Parallel submissions (to a journal, conference, workshop, or preprint repository) and already published papers are allowed.
 
 <br>
 <h2>Topics</h2>
