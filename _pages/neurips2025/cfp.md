@@ -28,7 +28,7 @@ The papers can present new work or summarize the recent work of the author(s). P
 <br>
 <h2>Important dates</h2>
 
-- Submission deadline: ``August 22, 2025, AoE``.
+- Submission deadline: ``August 29, 2025, AoE``.
 - Submission link: [``OpenReview``](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/ARLET).
 - Notification of acceptance: ``September 22, 2025, AoE``.
 - Posters and camera ready: ``TBD, 2025, AoE``.
