@@ -48,6 +48,7 @@ The workshop will cover a range of sub-topics including (but not limited to):
 - Model-based RL and Planning
 - Exploration in RL
 - Offline RL
+- Bandits
 - Unsupervised and Intrinsically Motivated RL
 - Representation Learning in RL
 - Lifelong and Non-stationary RL
