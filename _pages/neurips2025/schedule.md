@@ -16,10 +16,9 @@ edition: neurips2025
         <th style="border-top-left-radius: 10px; width: 15%">Time</th>
         <!-- <th>Virtual link</th> -->
         <th style="width: 15%">Type</th>
-        <th style="width: 70% border-top-right-radius: 10px;">Title & Speakers</th>
+        <th style="width: 70%; border-top-right-radius: 10px;">Title & Speakers</th>
         <!-- <th style="width: 25% border-top-right-radius: 10px;">Speakers (Affiliations)</th> -->
       </tr>
-      <tr>
   <tr class="header" style="cursor: pointer">
     <td>8:25 a.m.</td>
     <td>
@@ -73,8 +72,7 @@ edition: neurips2025
     <td></td>
     <td></td>
     <td>
-      
-    </td>
+        
   </tr> -->
 
 
@@ -145,7 +143,6 @@ edition: neurips2025
     <td>2:45 p.m.</td>
     <td>
     Contributed Talks
-    </td>
     </td>
   </tr>
 
