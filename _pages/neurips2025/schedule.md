@@ -152,7 +152,7 @@ edition: neurips2025
     Contributed Talks
     </td>
     <td>
-            <i>Team Coordination by Interactive World Latent</i>
+            <i>Learning to Interact in World Latent for Team Coordination</i>
             <br>
             <b>Dongsu Lee</b> (UT Austin)
             <br><br>
