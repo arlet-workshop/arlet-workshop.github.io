@@ -105,7 +105,14 @@ edition: neurips2025
     Contributed Talks
     </td>
     <td>
-    TBA.
+            <i>Horizon Reduction Makes Offline RL Scalable</i>
+            <br>
+            <b>Seohong Park</b> (UC Berkeley)
+            <br><br>
+            <i>What Makes a Reward Model a Good Teacher? An Optimization Perspective</i>
+            <br>
+            <b>Noam Razin</b> (Princeton University)
+            <br><br>
     </td>
   </tr>
 
@@ -143,6 +150,16 @@ edition: neurips2025
     <td>2:45 p.m.</td>
     <td>
     Contributed Talks
+    </td>
+    <td>
+            <i>Team Coordination by Interactive World Latent</i>
+            <br>
+            <b>Dongsu Lee</b> (UT Austin)
+            <br><br>
+            <i>Improved Regret Bounds for Linear Bandits with Heavy-Tailed Rewards</i>
+            <br>
+            <b>Artin Tajdini</b> (University of Washington)
+            <br><br>
     </td>
   </tr>
 
