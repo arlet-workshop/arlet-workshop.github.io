@@ -66,6 +66,8 @@ edition: neurips2025
             <b>Nan Jiang</b> (Illinois)
             <br><br>
             RL is currently enjoying unprecedented visibility and impact, driven largely by its success in LLMs. Yet it is also a confusing time to be an RL theorist: while the field witnesses rapid empirical progress, the broader community's view of RL theory remain anchored in earlier eras, unaware of more recent developments. That said, I believe RL theory has valuable insights to offer—not only for the immediate improvement of current systems, but also for enabling future applications and addressing deep intellectual questions of shared interest by the broader community. Unfortunately, many of these subtle insights are either taken for granted within our community and invisible to outsiders, or buried between the lines of technical papers. Worse still, this tacit knowledge is often not transmitted effectively even within our own community, leaving junior researchers without a clear understanding of the field’s conceptual foundations.
+            <br><br>
+            This talk will be a reflection on some of these ideas based on my own journey in RL theory. I will revisit some foundational concepts and research methodology, discuss what's worth sharing with the broader community, the misconceptions we need to correct, and how a reconciliation with practice reveals new opportunities for theory research.
     </td>
   </tr>
   <!-- <tr>
@@ -110,9 +112,9 @@ edition: neurips2025
             <br>
             <b>Seohong Park</b> (UC Berkeley)
             <br><br>
-            <i>What Makes a Reward Model a Good Teacher? An Optimization Perspective</i>
+            <i>Improved Regret Bounds for Linear Bandits with Heavy-Tailed Rewards</i>
             <br>
-            <b>Noam Razin</b> (Princeton University)
+            <b>Artin Tajdini</b> (University of Washington)
             <br><br>
     </td>
   </tr>
@@ -157,9 +159,9 @@ edition: neurips2025
             <br>
             <b>Dongsu Lee</b> (UT Austin)
             <br><br>
-            <i>Improved Regret Bounds for Linear Bandits with Heavy-Tailed Rewards</i>
+            <i>What Makes a Reward Model a Good Teacher? An Optimization Perspective</i>
             <br>
-            <b>Artin Tajdini</b> (University of Washington)
+            <b>Noam Razin</b> (Princeton University)
             <br><br>
     </td>
   </tr>
