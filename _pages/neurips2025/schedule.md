@@ -54,25 +54,26 @@ edition: neurips2025
     </td>
   </tr> -->
 
-  <tr class="header" style="cursor: pointer">
-    <td>9:15 a.m.</td>
+<tr class="header" style="cursor: pointer">
+    <td>9:05 a.m.</td>
     <td>
     Invited Talk
+    <br>
     </td>
     <td>
-            <i></i>
+            <i>Reality Check: Being an RL Theorist in 2025</i>
             <br>
             <b>Nan Jiang</b> (Illinois)
             <br><br>
-<br>
-            TBA.
+            RL is currently enjoying unprecedented visibility and impact, driven largely by its success in LLMs. Yet it is also a confusing time to be an RL theorist: while the field witnesses rapid empirical progress, the broader community's view of RL theory remain anchored in earlier eras, unaware of more recent developments. That said, I believe RL theory has valuable insights to offer—not only for the immediate improvement of current systems, but also for enabling future applications and addressing deep intellectual questions of shared interest by the broader community. Unfortunately, many of these subtle insights are either taken for granted within our community and invisible to outsiders, or buried between the lines of technical papers. Worse still, this tacit knowledge is often not transmitted effectively even within our own community, leaving junior researchers without a clear understanding of the field’s conceptual foundations.
     </td>
   </tr>
   <!-- <tr>
     <td></td>
     <td></td>
     <td>
-
+      TBD
+    </td>
   </tr> -->
 
 
@@ -141,7 +142,7 @@ edition: neurips2025
       <br>
       <b>Amy Zhang</b> (UT Austin), 
       <b>David Silver</b> (UCL & Deepmind),
-      <b>Alessandro Lazaric</b> (Meta),
+      <b>Kevin Jamieson</b> (University of Washington),
       <b>Wen Sun</b> (Cornell)
     </td>
   </tr>
