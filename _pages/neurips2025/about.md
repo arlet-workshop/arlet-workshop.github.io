@@ -5,7 +5,7 @@ permalink: /
 nav: true
 nav_order: 1
 edition: neurips2025
-subtitle: Workshop at the Conference on Neural Information Processing Systems, <a href="https://neurips.cc">on Saturday, December 6</a>. San Diego, California.
+subtitle: Workshop at the Conference on Neural Information Processing Systems, <a href="https://neurips.cc"> on Saturday, December 6</a>. San Diego, California.
 
 display_categories: [lecturer, panelist]
 speaker_horizontal: false
