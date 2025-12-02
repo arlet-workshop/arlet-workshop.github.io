@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poster Sessions
+title: Accepted Papers
 permalink: /neurips2025/accepted_papers
 nav: true
 nav_order: 5
