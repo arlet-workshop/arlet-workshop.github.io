@@ -155,7 +155,7 @@ edition: neurips2025
     Contributed Talks
     </td>
     <td>
-            <i>Learning to Interact in World Latent for Team Coordination</i>
+            <i>Unifying Agent Interaction and World Information for Multi-agent Coordination.</i>
             <br>
             <b>Dongsu Lee</b> (UT Austin)
             <br><br>
