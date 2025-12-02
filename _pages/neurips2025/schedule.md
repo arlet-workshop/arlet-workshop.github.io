@@ -39,11 +39,11 @@ edition: neurips2025
     Invited Talk
     </td>
     <td>
-            <i></i>
+            <i>What Does RL Theory Have to Do with Robotics?</i>
             <br>
             <b>Andrew Wagenmaker</b> (UC Berkeley)
             <br><br>
-            TBA.
+            While the theory of reinforcement learning has advanced to a fairly mature place, it is often not apparent how this theory can impact practice. This is especially true in domains such as robotics, where the challenges faced by practitioners typically feel far removed from the settings and algorithms considered by theorists. In this talk, I will discuss how RL theory can impact practice in robotics despite this apparent gap, and how theorists might approach their work to further this impact. I will focus in particular on two case studies centered around the question of pretraining for online adaptation. In the first case, I will explore the question of sim-to-real transfer for robotics, and how we should pretrain with RL in a simulator to enable effective transfer to the real world. In the second case, I will discuss how we can pretrain a policy from human demonstration data to ensure it is a good initialization for further RL finetuning. In both cases, I will show how theory provides the key algorithmic insights that lead to the practical approaches we ultimately propose.
     </td>
   </tr>
   <!-- <tr>
