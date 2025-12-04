@@ -143,7 +143,7 @@ edition: neurips2025
       Moderator: <b>Csaba Szepesvari</b> (University of Alberta)
       <br>
       <b>Amy Zhang</b> (UT Austin), 
-      <b>David Silver</b> (UCL & Deepmind),
+      <b>Eugene Vinitsky</b> (NYU),
       <b>Kevin Jamieson</b> (University of Washington),
       <b>Wen Sun</b> (Cornell)
     </td>
